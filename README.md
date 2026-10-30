@@ -203,7 +203,7 @@ src/main/java
 **Pasos:**
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/USUARIO/CajeroAutomatico.git
+   git clone https:https://github.com/japindo-arch/Proyecto-U1-G2-CajeroAutomatico.git
    ```
 2. En NetBeans: **File → Open Project** y elegir la carpeta del repositorio.
 3. Clic derecho en el proyecto → **Clean and Build** → **Run**.
