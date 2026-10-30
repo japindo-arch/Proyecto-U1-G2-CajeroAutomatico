@@ -1,0 +1,5 @@
+# Archivos generados por Maven / NetBeans
+target/
+nbproject/private/
+nbactions.xml
+*.class
